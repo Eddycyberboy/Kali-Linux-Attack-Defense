@@ -2,7 +2,7 @@
 
 This folder contains all the **network and security architecture** diagrams for the Kali Linux Attack & Defense Lab.
 
-## ** Network Topology Diagram (`network-topology.png`)**
+## ** Network Topology Diagram (`network Topology.png`)**
 **What It Shows:**  
 - The entire **lab setup**, including:
   - Kali Linux (Attacker)
@@ -16,7 +16,7 @@ This folder contains all the **network and security architecture** diagrams for 
 
 ---
 
-## ** Attack Flow Diagram (`attack-flow.png`)**
+## ** Attack Flow Diagram (`attack Flow.png`)**
 **What It Shows:**  
 - The **step-by-step process of an attack**, from reconnaissance to exploitation.
 - Attack techniques used (Nmap scanning, Metasploit exploits, privilege escalation).
@@ -28,7 +28,7 @@ This folder contains all the **network and security architecture** diagrams for 
 
 ---
 
-## ** Defense Strategy Diagram (`defense-strategy.png`)**
+## ** Defense Strategy Diagram (`defense Strategy.png`)**
 📌 **What It Shows:**  
 - Key **security controls** to detect, prevent, and mitigate attacks.
 - Defensive tools used (SIEM, IDS, Firewalls).
